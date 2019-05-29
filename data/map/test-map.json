@@ -3,7 +3,7 @@
  "layers":[
         {
          "id":2,
-         "image":"background-01.png",
+         "image":"..\/..\/background-01.png",
          "name":"background",
          "opacity":1,
          "type":"imagelayer",
@@ -13,7 +13,7 @@
         }, 
         {
          "id":3,
-         "image":"layer-01.png",
+         "image":"..\/..\/layer-01.png",
          "name":"image-layer",
          "opacity":1,
          "type":"imagelayer",
@@ -38,19 +38,7 @@
          "draworder":"topdown",
          "id":4,
          "name":"objects",
-         "objects":[
-                {
-                 "height":0,
-                 "id":1,
-                 "name":"slime",
-                 "point":true,
-                 "rotation":0,
-                 "type":"player",
-                 "visible":true,
-                 "width":0,
-                 "x":181,
-                 "y":531
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
