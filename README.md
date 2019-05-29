@@ -15,7 +15,7 @@ Then in the cloned directory, simply run:
 
 Running the game:
 
-	npm run serve
+	npm start
 
 And you will have the game running on http://localhost:8000
 
